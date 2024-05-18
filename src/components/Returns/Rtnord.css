@@ -1,0 +1,19 @@
+.rdv{
+    width: 5em;
+    height: 2.5em;
+    font-family: sans-serif;
+    color: white;
+}.pg{
+    margin-top: 1px;
+    margin-left: 5px;
+    font-size: 12px;
+}
+.pgh{
+    font-weight: 600;
+    margin-top: -20px;
+    margin-left: 5px;
+    font-size: 15px;
+}
+.rdv:hover{
+    border: 2px solid white;
+}

@@ -1,0 +1,8 @@
+.cart{
+    width: 5em;
+    height: 2.5em;
+    margin-left: -10px;
+}
+.cart:hover{
+    border: 2px solid white;
+}

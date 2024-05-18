@@ -1,0 +1,14 @@
+.l{
+    width: 6em;
+    height: 2.5em;
+    background-color: #0F1111;
+}
+.ig{
+    width: 90%;
+    height: 70%;
+    margin-top: 10%;
+    margin-left: 5%;
+}
+.l:hover{
+    border: 2px solid white;
+}

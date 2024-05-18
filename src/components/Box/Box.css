@@ -1,0 +1,50 @@
+.oc{
+    width: 200px;
+    height: auto;
+}
+.img1{
+    width: 180px;
+    height: 180px;
+    margin-left: 10px;
+}
+.det{
+    width: 180px;
+    font-size: 13px;
+    font-weight: 500;
+}
+.str{
+    width: 7em;
+    height: 2.3em;
+}
+.pd{
+    width: 180px;
+}
+.prc{
+    font-weight: 500;
+    font-size: 18px;
+}
+.dis{
+    font-weight: 600;
+    font-size: 13px;
+    margin-top: 4px;
+    color: rgb(184, 52, 131);
+}
+.s{
+    width: 180px;
+    font-size: 11px;
+}
+.ibdiv{
+    width: 90%;
+    margin-left: 5%;
+    display: flex;
+    justify-content: space-between;
+}
+.button{
+    width: 2em;
+    height: 2em;
+    padding-top: 0px;
+    align-content: end;
+}
+#fon{
+    color: rgb(192, 50, 31);
+}

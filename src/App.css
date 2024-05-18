@@ -1,0 +1,17 @@
+.by{
+  box-sizing: border-box;
+}
+.adiv{
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(5,auto);
+  justify-content: space-evenly;
+}
+.btn{
+  width: 2em;
+  height: 2em;
+}
+.set{
+  width: 8em;
+  height: 2em;
+}
